@@ -1,0 +1,11 @@
+[project]
+name = "manim-lehrfem"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "manim>=0.18.1",
+    "numpy>=1.26.4",
+    "pandas>=2.2.3",
+]
