@@ -11,3 +11,7 @@ Examples:
 --- 
 
 ![Parametric Mapping](examples/ParametricPlotExample_ManimCE_v0.18.1.gif)
+
+---
+
+![3D Mesh](examples/AnimationExample_ManimCE_v0.18.1.gif)
